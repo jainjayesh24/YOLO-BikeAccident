@@ -21,8 +21,4 @@ The implementation is divided into several stages:
 - **Model Training**: Utilize pre-annotated accident datasets or create custom annotations for training.
 - **Model Inference**: Run the trained model on test images/videos to detect real-time accidents.
 
-## Future Enhancements
-- **Deployment**: Extend the model's application to a cloud-based service or integrate it with a mobile app.
-- **Dataset Expansion**: Improve model accuracy by training on larger and more diverse datasets.
-- **Real-Time Alert System**: Integrate a system for real-time accident detection and alert generation for emergency services.
 
